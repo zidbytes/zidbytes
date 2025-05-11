@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zidbytes
 
-Welcome to my GitHub profile! I'm a software developer who enjoys exploring the intersection of **open source**, **machine learning**, and **clean, creative code**.
+I'm learning to code and love experimenting with new things.
 
 ---
 
