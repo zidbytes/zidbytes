@@ -32,3 +32,6 @@ I'm learning to code and love experimenting with new things.
 ### 🗂️ Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zidbytes&theme=radical)
+![Contributions Badge](https://img.shields.io/badge/Contributions-120%2B-brightgreen?style=for-the-badge)
