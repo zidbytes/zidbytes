@@ -1,12 +1,17 @@
-# 👋 Hi, I'm Zidbytes
+<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Zidbytes</span></h1>
 
-I'm learning to code and love experimenting with new things.
+<p align="center">
+  <em>I'm learning to code and love experimenting with new things.</em>
+</p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🔭 Currently working on personal projects involving **AI**, **data science**, and **developer tools**.
+<ul align="center">
+  <li>Currently working on personal projects involving <strong>AI</strong>, <strong>data science</strong>, and <strong>developer tools</strong>.</li>
+</ul>
+
 
 ---
 
